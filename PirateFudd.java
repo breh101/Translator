@@ -4,8 +4,7 @@ import java.util.Scanner;
  *
  * @author Summer Sneed
  * @version 1.0
- *
- * Class to test all classes, methods, and instance variables. */
+ */
 public class PirateFudd {
 /**
  *
