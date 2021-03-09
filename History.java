@@ -3,8 +3,7 @@
  *
  * @author Summer Sneed
  * @version 1.0
- *
- * Class to keep track of record of past translations. */
+ */
 public class History {
 /** The String array where translations are stored. */
     private String[] transArray = new String[3]; // Up to 3 history records will be stored in translation array.
