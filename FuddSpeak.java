@@ -4,7 +4,7 @@
  * @author Summer Sneed
  * @version 1.0
  *
- * Class to translate English to Elmer Fudd Speak. */
+ */
 public class FuddSpeak {
 /** The String sentence that ends up being the translated sentence. */
     private String fSentence = "";
