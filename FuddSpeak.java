@@ -3,7 +3,6 @@
  *
  * @author Summer Sneed
  * @version 1.0
- *
  */
 public class FuddSpeak {
 /** The String sentence that ends up being the translated sentence. */
