@@ -5,7 +5,6 @@
  * @version 1.0
  */
 public class FuddSpeak {
-/** The String sentence that ends up being the translated sentence. */
     private String fSentence = "";
 
 /** String method for translating from English to Elmer Fudd Speak.
