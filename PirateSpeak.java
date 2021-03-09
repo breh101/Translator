@@ -3,10 +3,8 @@
  *
  * @author Summer Sneed
  * @version 1.0
- *
- * Class to translate English to PirateSpeak. */
+ */
 public class PirateSpeak {
-/** The String sentence that ends up being the translated sentence. */
     private String pSentence = "";
 
 /** String method for translating from English to Pirate Speak.
