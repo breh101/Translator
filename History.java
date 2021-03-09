@@ -5,9 +5,7 @@
  * @version 1.0
  */
 public class History {
-/** The String array where translations are stored. */
     private String[] transArray = new String[3]; // Up to 3 history records will be stored in translation array.
-/** The number of records currently stored in the translations array. */
     private int recordNum = 0;
 /** Method that adds a history record to the translation array.
  *
